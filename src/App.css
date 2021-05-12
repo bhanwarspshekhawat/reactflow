@@ -1,0 +1,191 @@
+body {margin:0;}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 20;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  /* padding-left: 10% 10%; */
+  margin-left: 20%;
+  background-color: gray;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* li a:hover:not(.active) {
+  background-color: #111;
+} */
+
+
+/* .screll{padding:20px;
+  margin-top:30px;
+  background-color:#1abc9c;
+  height:1500px;} */
+  table  {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+   .b1{
+     background-color: gray;
+   }
+   span{
+     color: blue;
+   }
+   .screll{
+    background-color: white;
+    width: 1000px;
+    border: 5px solid green;
+    padding: 20px;
+    margin: 10px;
+   }
+   .ge{    background: gray;
+    color: #fff !important;
+    text-align: left;
+    padding: 2px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.form{
+  border: 2px white;
+ 
+  padding: 3px;
+  margin: 5px;
+  margin-left: 10px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 2px 2px #ddd;
+  width: 200px;
+}
+.magr{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.col1{
+  column-count: 2;
+}
+.magr1{
+  margin-left: 19%;
+  margin-right: 19%;
+}
+.magr2{
+  margin-left: 10%;
+}
+.control{
+  
+  padding: 40px;
+  padding-left: 20%;
+}
+.bullon{
+  text-align: center;
+}
+.red-color {
+  color:red;
+  margin: 10%;
+  font-size: x-large;
+  }
+  .form1{
+    border: 2px white;
+   
+    padding: 3px;
+    margin: 5px;
+    margin-left: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 2px 2px #ddd;
+    width: 600px;
+  }
+  .magr4{
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .sidenav {
+    height: 100%;
+    width: 180px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(126, 169, 185);
+    overflow-x: hidden;
+    padding-top: 20px;
+    color: white;
+    margin-top: 70px
+  }
+  
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+  }
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  
+  .main {
+    margin-left: 160px; /* Same as the width of the sidenav */
+    font-size: 15px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+  .form2{
+    border: 1px white;
+   
+    padding: 3px;
+    margin: 5px;
+    margin-left: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 1px 21x #ddd;
+    background-color: rgb(126, 169, 185);
+    width: 170px;
+    color: white;
+  }
+  .magr5{
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .top{
+    position: top;
+    background-color: gray;
+    color: white;
+    
+  }
+  .fa1{
+    padding: 20px;
+    margin-left: 50%;
+    padding-right: 10%;
+  }
+  .c{
+    color: gray;
+  }
+  .gray-color{
+    color: white;
+  }
+  .th{
+    background-color: gray;
+  }
